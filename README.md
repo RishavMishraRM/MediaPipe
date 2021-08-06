@@ -3,5 +3,6 @@
 
 ### 1. Face Detection using MediaPipe
 <img src="images/face_detection.gif">
+
 ### 2. Face Mesh
 
