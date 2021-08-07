@@ -5,4 +5,5 @@
 <img src="images/face_detection.gif">
 
 ### 2. Face Mesh
+<img src="images/face_mesh.gif">
 
