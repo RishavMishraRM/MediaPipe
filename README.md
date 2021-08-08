@@ -11,4 +11,4 @@
 <img src="images/openpose.gif">
 
 ### 4. Hand Detection
-
+<img src="images/hand_detection.gif">
