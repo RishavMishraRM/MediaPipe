@@ -12,3 +12,5 @@
 
 ### 4. Hand Detection
 <img src="images/hand_detection.gif">
+
+### 5. Holistic
