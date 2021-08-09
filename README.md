@@ -14,3 +14,4 @@
 <img src="images/hand_detection.gif">
 
 ### 5. Holistic
+<img src="images/holistic.gif">
