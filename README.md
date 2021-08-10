@@ -1,7 +1,8 @@
 # MediaPipe   
 <img src="images/mediapipe.png">
 
-### 1. Face Detection using MediaPipe        <a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Face_Detection.py">Code</a>
+### 1. Face Detection using MediaPipe        
+<a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Face_Detection.py">Code</a>
 <img src="images/face_detection.gif">
 
 ### 2. Face Mesh
