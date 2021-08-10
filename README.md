@@ -7,7 +7,7 @@
 ### 2. Face Mesh  :-  <a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Face_Mesh.py">Code</a>
 <img src="images/face_mesh.gif">
 
-### 3. Open Pose  :-  <a href="">Code</a>
+### 3. Open Pose  :-  <a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Open_Pose.py">Code</a>
 <img src="images/openpose.gif">
 
 ### 4. Hand Detection  :-  <a href="">Code</a>
