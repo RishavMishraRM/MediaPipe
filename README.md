@@ -13,5 +13,5 @@
 ### 4. Hand Detection  :-  <a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Hand_Detection.py">Code</a>
 <img src="images/hand_detection.gif">
 
-### 5. Holistic  :-  <a href="">Code</a>
+### 5. Holistic  :-  <a href="https://github.com/RishavMishraRM/MediaPipe/blob/main/Holistic.py">Code</a>
 <img src="images/holistic.gif">
